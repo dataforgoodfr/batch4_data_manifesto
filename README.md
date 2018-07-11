@@ -9,7 +9,7 @@ N’hésitez à nous rejoindre si vous souhaitez collaborer !
 
 ## Contenu 
 
-[Voir le serment](sermend.md)
+[Voir le serment](serment.md)
 
 
 ## Live version
