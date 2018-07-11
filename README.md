@@ -9,7 +9,8 @@ N’hésitez à nous rejoindre si vous souhaitez collaborer !
 
 ## Contenu 
 
-https://github.com/dataforgoodfr/batch4_data_manifesto/blob/master/serment.md
+[Voir le serment](sermend.md)
+
 
 ## Live version
 https://www.hippocrate.tech/
