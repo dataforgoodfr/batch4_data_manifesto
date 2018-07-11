@@ -49,7 +49,27 @@
 
 #### mesurer le **biais** et la **variance** pour contrôler l'exactitude et la dispersion du résultat et documenter les **métriques d'erreur** retenues.
 
+#### garder un esprit critique par rapport aux **segments** issus d'un **algorithme de groupement** (“clustering”).
+#### prévoir et prévenir les **dérives possibles dans le temps du modèle** par rapport aux données, de façon à éviter l'apparition de biais supplémentaires.
+
+#### veiller à regarder les résultats dans leur ensemble (**non-partialité**) et à ne pas céder à un "**biais de confirmation**" (qui consisterait à voir ce à quoi je m'attendais). 
+
+#### vérifier l’**absence de discrimination** : vérifier si le modèle s’applique avec la même pertinence sur des **segments potentiellement discriminatoires** de la population traitée.
+
+
 
 ## Je présente les résultats aux parties prenantes
 
+#### communiquer ma démarche et mes résultats (ou leur absence) à mon client / mon équipe :
+- en ne les **dénaturant** et en ne les **dissimulant pas**, notamment en choisissant une visualisation fidèle à l’ensemble des résultats
+- en **garantissant la compréhension la plus exacte possible**, en optant pour les visualisations et explications les plus parlantes, en précisant les **précautions d’usage** à prendre avec ces résultats et leur interprétation.
+![](https://hippocrate.s3.eu-west-3.amazonaws.com/46313376580b4c44b6b1336de368dc52.png)
+![](https://hippocrate.s3.eu-west-3.amazonaws.com/b274b86d643440718773ec4c6d79fabd.png
+)
+
+#### donner **l'alerte** si je constate une utilisation frauduleuse, illégale, illégitime, discriminatoire ou non-éthique des résultats.
+
 ## Je termine le projet
+#### veiller à ce que les données ne soient pas conservées **plus longtemps que ce qui est nécessaire** pour l’application telle que définie pendant le projet.
+#### **documenter au maximum les données et leurs traitements** afin d’en garantir l’**explicabilité** et la **reproductibilité**.
+#### anticiper les **usages** qui pourraient être faits de mon travail à moyen et long terme et faire mon possible pour garder sur lui un **droit de regard** et une **possibilité d’action**.
