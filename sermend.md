@@ -47,7 +47,7 @@
 ![](https://hippocrate.s3.eu-west-3.amazonaws.com/6a2325de422c4f2f9f2b7eb82850388c.png)
 ![](https://hippocrate.s3.eu-west-3.amazonaws.com/46313376580b4c44b6b1336de368dc52.png)
 
-####mesurer le **biais** et la **variance** pour contrôler l'exactitude et la dispersion du résultat et documenter les **métriques d'erreur** retenues.
+#### mesurer le **biais** et la **variance** pour contrôler l'exactitude et la dispersion du résultat et documenter les **métriques d'erreur** retenues.
 
 
 ## Je présente les résultats aux parties prenantes
